@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Develgo.WebComponents", "Develgo.WebComponents\Develgo.WebComponents.csproj", "{7BE44E2B-54F8-47F5-A9BC-9EEB8B513917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Develgo.WebUi", "Develgo.WebUi\Develgo.WebUi.csproj", "{941B7198-AD83-48FE-B219-57DD5C3CA580}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BE44E2B-54F8-47F5-A9BC-9EEB8B513917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BE44E2B-54F8-47F5-A9BC-9EEB8B513917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BE44E2B-54F8-47F5-A9BC-9EEB8B513917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BE44E2B-54F8-47F5-A9BC-9EEB8B513917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{941B7198-AD83-48FE-B219-57DD5C3CA580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941B7198-AD83-48FE-B219-57DD5C3CA580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941B7198-AD83-48FE-B219-57DD5C3CA580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941B7198-AD83-48FE-B219-57DD5C3CA580}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {439D8B44-9262-4DC8-93DE-15BA9A7FFC15}
+	EndGlobalSection
+EndGlobal
